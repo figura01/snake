@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+/*@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');*/
 
 * {
 	box-sizing: border-box;
 }
 
 body {
-	background-image: url('../images/bg.png');
+	/*background-image: url('../images/bg.png');*/
 }
 
 #terrain {

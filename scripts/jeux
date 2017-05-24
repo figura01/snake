@@ -1,0 +1,7 @@
+define(["moduleJeux"],
+    function(moduleJeux) {
+        return {
+
+        }
+    }
+);

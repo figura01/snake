@@ -1,5 +1,1 @@
-requirejs(["srcipts/snakes"]
-        function(snakes){
-            snakes();
-        }
-)
+requirejs(["snakes"]);
